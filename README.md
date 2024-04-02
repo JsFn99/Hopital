@@ -24,7 +24,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/JsFn99/Hopital.git)
    ```
 
 2. Navigate to the project directory:
@@ -48,9 +48,6 @@ To run the project locally, follow these steps:
 - Thymeleaf
 - Spring Security
 
-## Contributors
-
-- [Your Name] - [Your Email]
 
 ## License
 
