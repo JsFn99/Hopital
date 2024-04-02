@@ -48,7 +48,3 @@ To run the project locally, follow these steps:
 - Thymeleaf
 - Spring Security
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
