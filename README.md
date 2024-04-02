@@ -30,7 +30,7 @@ To run the project locally, follow these steps:
 2. Navigate to the project directory:
 
    ```
-   cd Hospital-Patient-Management-System
+   cd Hopital
    ```
 
 3. Build and run the application using Maven:
